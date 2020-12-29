@@ -1,2 +1,2 @@
 # sayan-github.github.io
-Learning the C Programming Language
+The main page for Sayan's GitHub site.
